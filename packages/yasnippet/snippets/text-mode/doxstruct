@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: doxygen struct
+# key: doxstruct
+# --
+/**
+ * @brief ${1:A struct which.....}
+ *
+ */
+$0

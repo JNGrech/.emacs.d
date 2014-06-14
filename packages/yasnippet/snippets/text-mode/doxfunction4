@@ -1,0 +1,14 @@
+# -*- mode: snippet -*-
+# name: doxygen function 4 params
+# key: doxfunction4
+# --
+/**
+ * @brief ${1:Return/Print/...}
+ *
+ * @param ${2:parameter}: ${3:description}
+ * @param ${4:parameter}: ${5:description}
+ * @param ${6:parameter}: ${7:description}
+ * @param ${8:parameter}: ${9:description}
+ *
+ */
+$0
