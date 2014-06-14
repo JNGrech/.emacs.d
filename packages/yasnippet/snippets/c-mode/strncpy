@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: strncpy
+# key: strncpy
+# --
+strncpy(${1:destination}, ${2:source}, ${3:num});
+$0

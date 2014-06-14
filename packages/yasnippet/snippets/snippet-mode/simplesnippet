@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: snippet
+# key: simplesnippet
+# --
+
+# -*- mode: snippet -*-
+# name: ${1:name}
+# key: ${2:key}
+# --
+$0

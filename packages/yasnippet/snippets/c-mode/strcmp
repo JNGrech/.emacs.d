@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: strcmp
+# key: strcmp
+# --
+strcmp(${1:str1}, ${2:str2});
+$0

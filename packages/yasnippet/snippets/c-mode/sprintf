@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: sprintf
+# key: sprintf
+# --
+sprintf(${1:string}, "${2:format string}"${3:,a0,a1});
+$0
